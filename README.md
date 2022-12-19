@@ -1,4 +1,4 @@
-# Scan for threats using the AMSI library
+# Scan files for threats using the AMSI library
 
 * proof of concept
 * scans larger files in chunks of 10MB, overlapping 
